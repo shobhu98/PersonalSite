@@ -5,7 +5,7 @@
 
 }
 .icon-section{
-   alignment: bottom;
+    alignment: bottom;
 
 
 }
@@ -54,6 +54,17 @@ a{
     color:black;}
 
 body{
-    background-color: black;
+    background-color: olivedrab;
     width: 100%;
+}
+.container2{
+    background-color: #ffa100;
+}
+.fab{
+    background-color: white;
+    color: gray;
+}
+.fas{
+    background-color: white;
+    color: gray;
 }
