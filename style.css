@@ -1,6 +1,6 @@
 .la{
 
-    justify-content: center;
+    /*justify-content: center;*/
     margin: 10px;
 
 }
@@ -54,8 +54,8 @@ a{
     color:black;}
 
 body{
-    background-color: olivedrab;
-    width: 100%;
+    background-color:black;
+    /*width: 100%;*/
 }
 .container2{
     background-color: #ffa100;
