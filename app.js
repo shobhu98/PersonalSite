@@ -7,6 +7,7 @@ function colorchanger() {
 
          let colo= arrcolor.pop();
         cy.style.backgroundColor=colo;
+
         arrcolor.unshift(colo);
 
 

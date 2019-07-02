@@ -10,42 +10,43 @@
 
 }
 .container{
-    width: 300px;
-    height: 300px;
+    width: 50vh;
+    height: 50vh;
     /*margin-left: 600px;*/
-    margin: 25vh auto;
+    margin: 20vh auto;
 
     /*margin-top: 225px;*/
     background-color: white;
     border: black 1px solid;
+    text-align: center;
 
 }
 .icons{
-    margin-left: 100px;
+    align-items: center;
 
 }
 .univ{
 
     color: gray;
-    margin-left: 40px;
+    /*margin-left: 40px;*/
     margin-top: -10px;
 }
 .personal-img{
-    width: 100px;
-    height: 100px;
+    /*position: relative;*/
+    width: 20vh;
+    height: 20vh;
     alignment: center;
-    margin-left: 100px;
-    margin-top: 10px;
+    margin: 3vh auto;
 }
 .strong{
 
 }
-.name{
-    margin-left: 30px;
-}
-.h{
-    margin-left: 70px;
-}
+/*.name{*/
+/*    margin-left: 30px;*/
+/*}*/
+/*.h{*/
+/*    margin-left: 70px;*/
+/*}*/
 a{
     text-decoration: none;
 }
@@ -70,4 +71,7 @@ body{
 .fas{
     background-color: white;
     color: gray;
+}
+.h{
+    font-size: 20px;
 }
