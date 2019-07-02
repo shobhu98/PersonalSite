@@ -51,15 +51,18 @@ a{
 }
 
 .blackiconcolor {
-    color:black;}
+    color:black;
+
+}
+
 
 body{
     background-color:black;
     /*width: 100%;*/
 }
-.container2{
-    background-color: #ffa100;
-}
+/*.container2{*/
+/*    background-color: #ffa100;*/
+/*}*/
 .fab{
     background-color: white;
     color: gray;
