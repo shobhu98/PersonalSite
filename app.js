@@ -1,7 +1,7 @@
 let cy=document.body;
 
 
- arrcolor=['#039be5','#00FF00','#000000','#FFDF00'];
+ arrcolor=['#ff0132','#928a53','#eaa052','#df103c'];
 function colorchanger() {
 
 
@@ -14,4 +14,4 @@ function colorchanger() {
 }
 
 
-setInterval(colorchanger,2000);
+setInterval(colorchanger,4000);
